@@ -1,10 +1,10 @@
-#Save Forwarder
+# Save Forwarder
 
-##About
+## About
 
 Basic save forwarder made for learning purposes where stealer is in python and api in nodejs using express.
 
-##Setup
+## Setup
 
 You need to have installed python3 and nodejs.
 
