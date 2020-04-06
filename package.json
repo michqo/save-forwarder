@@ -1,0 +1,16 @@
+{
+  "name": "save-forwarder",
+  "version": "1.0.0",
+  "description": "Open source save forwarder, made just for learning purposes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "MichalUSER",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^4.1.1"
+  }
+}
